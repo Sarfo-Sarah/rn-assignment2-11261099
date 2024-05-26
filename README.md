@@ -1,3 +1,4 @@
+![rn-image](https://github.com/Sarfo-Sarah/rn-assignment2-11261099/assets/151846528/a67aa08d-fd8d-4aa7-9482-a322152bebb7)
 # rn-assignment2-11261099
 A repo for the assignment 2 of the react-native course
 # General Overview
